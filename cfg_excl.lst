@@ -1,0 +1,7 @@
+etc/systemd/network
+etc/systemd/resolved.conf
+etc/vmware-content-library/nfsmounts
+etc/vmware-content-library/winmounts
+etc/vmware/install-defaults/upgrade.source.vpxd.ip
+storage/log/vmware/sso/tcserver.pid
+usr/lib/vmware-sso/vmware-sts/webapps/ROOT
